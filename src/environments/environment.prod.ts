@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+    apiServer : "http://dev.jelsat.com"
+
 };

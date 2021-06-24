@@ -1,0 +1,11 @@
+form#main_form{
+    text-align: center;
+}
+
+.form-group{
+    display: grid;
+    grid-template-columns: 8% 11%;
+    justify-content: center;
+    gap: 1rem;
+    grid-template-rows: 8% 11%;
+}

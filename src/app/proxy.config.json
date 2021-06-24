@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "http://dev.jelsat.com",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
